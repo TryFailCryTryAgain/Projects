@@ -9,7 +9,6 @@ import time
 def cls():
     os.system('cls||clear')
 
-
 Player_Stats = {
     "Health": 100,
 }
