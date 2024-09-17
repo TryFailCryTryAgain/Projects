@@ -43,3 +43,4 @@ def Dmg_Taken():
     print("You have taken : ", sum(dmg))
 Dmg_Taken()
 # print("\U0001F494")
+
