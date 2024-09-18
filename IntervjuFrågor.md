@@ -16,6 +16,7 @@
 - 7. Kan du beskriva ett minnesvärt event du har planerat eller deltagit i?
 
 ### Behov och motivation:
+- 8. Vad motiverar dig att anlita en eventbyrå?
 - 9. Vilka är de viktigaste faktorerna för dig när du väljer en eventbyrå? (ex. pris, kreativitet, service)
 
 ## Förväntningar och önskemål
