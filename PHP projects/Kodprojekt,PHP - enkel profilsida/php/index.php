@@ -20,7 +20,7 @@
         function Greeting() {
             global $first_name, $last_name;
             echo "<h1>".$first_name." ".$last_name."</h1>";
-            echo "<p>"."Hej ".$first_name.". Välkommen tillbaka!"."</p>";
+            echo "<p>"."Hi ".$first_name.". Welcome back tillbaka!"."</p>";
         }
 
         function Age()  {
