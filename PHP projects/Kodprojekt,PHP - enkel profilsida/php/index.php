@@ -57,8 +57,8 @@
         }
 
         Greeting();
-        Age();
         City();
+        Age();
         Status();
         Hobbies();
 
