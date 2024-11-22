@@ -1,11 +1,11 @@
-version: "3.1"
+version: '3.1'
 
 services:
-  build:
-    php:
+  php:
+    build:
       context: .
       dockerfile: Dockerfile
     ports:
-      - 80:80
+      - "8080:80"
     volumes:
-      - ./src:/var/www/html/
+      - ./src:/var/www/html
